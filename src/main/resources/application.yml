@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: homeWork5
+  messages:
+    basename: exception_messages
+    encoding: UTF-8
